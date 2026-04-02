@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

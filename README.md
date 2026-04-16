@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |

@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -17,17 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2652-sum-multiples) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -36,15 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -52,58 +53,59 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

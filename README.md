@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->

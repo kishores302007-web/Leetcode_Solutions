@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->

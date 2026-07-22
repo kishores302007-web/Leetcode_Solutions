@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |

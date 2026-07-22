@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |

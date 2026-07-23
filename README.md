@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Recursion

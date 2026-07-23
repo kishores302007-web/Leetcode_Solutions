@@ -3,12 +3,14 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int sum = accumulate(nums.begin(), nums.end(), 0);
 
-        if (sum < abs(target) || (sum + target)% 2 != 0) {
+        if (sum < abs(target) || (sum + target) % 2 != 0) {
             return 0;
+
         } else {
-        int n = nums.size();
-        int t = (sum + target) / 2;
-        vector<vector<int>> dp( n + 1, vector<int>(t + 1, 0));
+
+            int n = nums.size();
+            int t = (sum + target) / 2;
+            vector<vector<int>> dp(n + 1, vector<int>(t + 1, 0));
             for (int i = 0; i <= n; i++) {
                 dp[i][0] = 1;
             }
@@ -21,8 +23,7 @@ public:
                     }
                 }
             }
-            return dp[n][t];
+                    return dp[n][t];
         }
-        
     }
 };

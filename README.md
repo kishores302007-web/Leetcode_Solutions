@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |

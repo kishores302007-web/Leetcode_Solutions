@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

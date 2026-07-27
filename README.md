@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

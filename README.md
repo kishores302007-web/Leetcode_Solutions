@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |

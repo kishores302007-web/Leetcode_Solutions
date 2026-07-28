@@ -27,10 +27,10 @@ private:
         int rightHeight = checkHeight(node->right);
         if (rightHeight == -1) return -1;
 
-        if (std::abs(leftHeight - rightHeight) > 1) {
+        if (abs(leftHeight - rightHeight) > 1) {
             return -1;
         }
 
-        return 1 + std::max(leftHeight, rightHeight);
+        return 1 + max(leftHeight, rightHeight);
     }
 };

@@ -11,12 +11,8 @@
  */
 class Solution {
 public:
-    bool isBalanced(TreeNode* root) {
-        return checkHeight(root) != -1;
-    }
 
-private:
-    int checkHeight(TreeNode* node) {
+     int checkHeight(TreeNode* node) {
         if (node == nullptr) {
             return 0;
         }
@@ -32,5 +28,9 @@ private:
         }
 
         return 1 + max(leftHeight, rightHeight);
+    }
+    
+    bool isBalanced(TreeNode* root) {
+        return checkHeight(root) != -1;
     }
 };

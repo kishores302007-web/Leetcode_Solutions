@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Stack
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |

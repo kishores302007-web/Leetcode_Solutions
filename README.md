@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0494-target-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->

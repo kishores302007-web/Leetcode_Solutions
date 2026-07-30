@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

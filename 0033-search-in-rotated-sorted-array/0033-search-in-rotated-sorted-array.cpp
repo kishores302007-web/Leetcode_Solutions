@@ -1,7 +1,6 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-       // if(nums[0] == 1 || nums[0] == 0) return 0;
         int low = 0, high = nums.size()-1;
         while(high >= low){
             int mid = low + (high - low)/2;

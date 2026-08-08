@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

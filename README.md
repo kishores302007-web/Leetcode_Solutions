@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Stack
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->

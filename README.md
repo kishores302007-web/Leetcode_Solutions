@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -349,9 +351,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->

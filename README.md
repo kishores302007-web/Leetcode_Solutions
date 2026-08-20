@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Stack
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0207-course-schedule/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 <!---LeetCode Topics End-->

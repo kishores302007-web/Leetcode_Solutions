@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0062-unique-paths](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->

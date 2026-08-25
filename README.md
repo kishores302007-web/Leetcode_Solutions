@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

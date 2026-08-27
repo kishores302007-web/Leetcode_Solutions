@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Divide and Conquer

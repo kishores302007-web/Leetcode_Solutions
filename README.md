@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |

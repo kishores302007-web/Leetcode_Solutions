@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Hash Table
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

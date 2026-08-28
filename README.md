@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 ## Array
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -405,4 +408,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

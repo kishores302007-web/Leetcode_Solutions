@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0204-count-primes/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

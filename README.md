@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

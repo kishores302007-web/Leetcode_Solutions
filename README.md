@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -441,4 +443,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->

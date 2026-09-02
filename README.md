@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |

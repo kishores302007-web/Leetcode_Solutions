@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2652-sum-multiples) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -18,18 +18,10 @@ public:
 
         if (root == nullptr)
             return 0;
-
-        // Best contribution from left and right
         int left = max(0, dfs(root->left));
         int right = max(0, dfs(root->right));
-
-        // Complete path passing through current node
         int currentPath = left + root->val + right;
-
-        // Update global answer
         ans = max(ans, currentPath);
-
-        // Return only ONE branch to parent
         return root->val + max(left, right);
     }
 

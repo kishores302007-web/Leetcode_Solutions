@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/2235-add-two-integers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |

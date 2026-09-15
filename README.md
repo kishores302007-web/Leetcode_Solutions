@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kishores302007-web/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/kishores302007-web/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
